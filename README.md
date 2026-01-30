@@ -29,6 +29,9 @@ Area-level socioeconomic deprivation indicator published by the UK Government us
   
 All datasets have been aggregated or aligned to the LSOA level to ensure spatial consistency and avoid individual privacy issues.
 
+Data Availability Note: 
+Raw EPC data, LSOA boundaries, and the postcode-to-LSOA lookup table are not included in this repository due to file size limits. All datasets are publicly available, and the download source and complete processing flow can be found in the notebook.
+
 
 ## 3. Repository Structure
 ```
