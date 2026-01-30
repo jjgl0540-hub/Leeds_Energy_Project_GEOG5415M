@@ -39,8 +39,10 @@ Raw EPC data, LSOA boundaries, and the postcode-to-LSOA lookup table are not inc
 │   └── raw/              #  (EPC 2025, IMD 2019, LSOA boundaries, ostcode-to-LSOA lookup)
 ├── outputs/
 │   └── figures/          # Figures are exported from the notebook
+├── reports/
+│   └── GEOG5415M_Final_Project_202018307.pdf    # Final report submitted for assessment
 ├── notebook/
-│   └── GEOG5415M_Final_Project_202018307.ipynb
+│   └── GEOG5415M_Final_Project_202018307_final.ipynb    # Final notebook submitted for assessment
 └── README.md
 
 ```
